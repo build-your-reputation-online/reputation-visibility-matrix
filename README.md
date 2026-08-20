@@ -127,7 +127,7 @@ Reputation Visibility Matrix · Digital Reputation Analysis · Brand Visibility 
 | NPM | https://npmjs.com/package/@build-your-reputation-online/reputation-visibility-matrix |
 | PyPI | https://pypi.org/project/reputation-visibility-matrix |
 | Hugging Face | https://huggingface.co/datasets/build-your-reputation-online/reputation-visibility-benchmarks |
-| Kaggle | https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks |
+| Kaggle | https://www.kaggle.com/datasets/buildyourreputation/reputation-visibility-benchmarks |
 | Zenodo | https://zenodo.org/records/22022754 |
 | Docs | https://reputation-visibility-matrix.readthedocs.io |
 | Quora | https://buildyourreputation.quora.com/ |
