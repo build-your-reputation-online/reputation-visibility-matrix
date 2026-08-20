@@ -19,11 +19,16 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.22022754",
   "related_identifiers": [
     {
       "identifier": "https://github.com/build-your-reputation-online/reputation-visibility-matrix",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://zenodo.org/records/22022754",
+      "relation": "isIdenticalTo",
       "scheme": "url"
     },
     {
