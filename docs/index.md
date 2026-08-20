@@ -98,7 +98,7 @@ reputation-matrix "brand-name" full-audit 88 82 85 78 90 84
 | NPM | https://npmjs.com/package/@build-your-reputation-online/reputation-visibility-matrix |
 | PyPI | https://pypi.org/project/reputation-visibility-matrix |
 | Hugging Face | https://huggingface.co/datasets/build-your-reputation-online/reputation-visibility-benchmarks |
-| Kaggle | https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks |
+| Kaggle | https://www.kaggle.com/datasets/buildyourreputation/reputation-visibility-benchmarks |
 | Quora | https://buildyourreputation.quora.com/ |
 | SlideShare | https://www.slideshare.net/slideshow/build-your-reputation-online-online-reputation-management-digital-brand-protection/289362944 |
 | Pinterest | https://www.pinterest.com/BuildYourReputation/ |
