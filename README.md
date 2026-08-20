@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@build-your-reputation-online/reputation-visibility-matrix)](https://npmjs.com/package/@build-your-reputation-online/reputation-visibility-matrix)
 [![PyPI](https://img.shields.io/pypi/v/reputation-visibility-matrix)](https://pypi.org/project/reputation-visibility-matrix)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22022754.svg)](https://doi.org/10.5281/zenodo.22022754)
 
 Reputation Visibility Matrix is a digital reputation analysis framework from [BuildYourReputation.online](https://buildyourreputation.online), created to help businesses, professionals, founders, and brands better understand their online visibility and reputation signals.
 
@@ -128,7 +128,7 @@ Reputation Visibility Matrix · Digital Reputation Analysis · Brand Visibility 
 | PyPI | https://pypi.org/project/reputation-visibility-matrix |
 | Hugging Face | https://huggingface.co/datasets/build-your-reputation-online/reputation-visibility-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22022754 |
 | Docs | https://reputation-visibility-matrix.readthedocs.io |
 | Quora | https://buildyourreputation.quora.com/ |
 | SlideShare | https://www.slideshare.net/slideshow/build-your-reputation-online-online-reputation-management-digital-brand-protection/289362944 |
