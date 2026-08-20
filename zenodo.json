@@ -52,7 +52,7 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks",
+      "identifier": "https://www.kaggle.com/datasets/buildyourreputation/reputation-visibility-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
