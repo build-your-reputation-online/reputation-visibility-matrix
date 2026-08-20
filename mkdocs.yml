@@ -1,0 +1,21 @@
+site_name: Reputation Visibility Matrix
+site_url: https://reputation-visibility-matrix.readthedocs.io
+site_description: Digital reputation analysis framework for analyzing brand visibility and reputation signals across the digital landscape.
+site_author: BuildYourReputation.online
+
+repo_name: build-your-reputation-online/reputation-visibility-matrix
+repo_url: https://github.com/build-your-reputation-online/reputation-visibility-matrix
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: green
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

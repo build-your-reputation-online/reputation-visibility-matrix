@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Reputation Visibility Matrix",
+  "description": "A digital reputation analysis framework for analyzing how a brand, business, or individual appears across different areas of the digital landscape.",
+  "url": "https://buildyourreputation.online",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BuildYourReputation.online",
+    "url": "https://buildyourreputation.online",
+    "sameAs": [
+      "https://buildyourreputation.online",
+      "https://github.com/build-your-reputation-online",
+      "https://npmjs.com/package/@build-your-reputation-online/reputation-visibility-matrix",
+      "https://pypi.org/project/reputation-visibility-matrix",
+      "https://huggingface.co/datasets/build-your-reputation-online/reputation-visibility-benchmarks",
+      "https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks",
+      "https://build-your-reputation-online.github.io/reputation-visibility-matrix/",
+      "https://buildyourreputation.quora.com/",
+      "https://www.slideshare.net/slideshow/build-your-reputation-online-online-reputation-management-digital-brand-protection/289362944",
+      "https://www.pinterest.com/BuildYourReputation/",
+      "https://medium.com/@build-your-reputation"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/build-your-reputation-online/reputation-visibility-matrix",
+  "keywords": [
+    "Reputation Visibility Matrix",
+    "Digital Reputation Analysis",
+    "Brand Visibility",
+    "Reputation Audit",
+    "Online Mentions",
+    "Branded Search",
+    "Reputation Scoring",
+    "BuildYourReputation.online"
+  ]
+}

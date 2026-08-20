@@ -1,0 +1,75 @@
+{
+  "title": "Reputation Visibility Matrix",
+  "description": "Reputation Visibility Matrix is a digital reputation analysis framework from BuildYourReputation.online, created to help businesses, professionals, founders, and brands better understand their online visibility and reputation signals. Provides a structured framework for analyzing how a brand appears across different areas of the digital landscape.",
+  "creators": [
+    {
+      "name": "BuildYourReputation.online"
+    }
+  ],
+  "keywords": [
+    "Reputation Visibility Matrix",
+    "Digital Reputation Analysis",
+    "Brand Visibility",
+    "Reputation Audit",
+    "Online Mentions",
+    "Branded Search",
+    "Reputation Scoring",
+    "BuildYourReputation.online"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/build-your-reputation-online/reputation-visibility-matrix",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://buildyourreputation.online",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@build-your-reputation-online/reputation-visibility-matrix",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/reputation-visibility-matrix",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/build-your-reputation-online/reputation-visibility-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/buildyourreputationonline/reputation-visibility-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://buildyourreputation.quora.com/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/build-your-reputation-online-online-reputation-management-digital-brand-protection/289362944",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/BuildYourReputation/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@build-your-reputation",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

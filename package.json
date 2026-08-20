@@ -1,0 +1,37 @@
+{
+  "name": "@build-your-reputation-online/reputation-visibility-matrix",
+  "version": "1.0.0",
+  "description": "Reputation Visibility Matrix is a digital reputation analysis framework for analyzing brand visibility and reputation signals across the digital landscape.",
+  "main": "index.js",
+  "bin": {
+    "reputation-matrix": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "reputation-visibility-matrix",
+    "digital-reputation-analysis",
+    "brand-visibility",
+    "reputation-audit",
+    "online-mentions",
+    "branded-search",
+    "reputation-scoring",
+    "buildyourreputation",
+    "reputation-monitoring",
+    "brand-presence",
+    "digital-presence",
+    "reputation-management"
+  ],
+  "author": "BuildYourReputation.online",
+  "license": "MIT",
+  "homepage": "https://buildyourreputation.online",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/build-your-reputation-online/reputation-visibility-matrix"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
